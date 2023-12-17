@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 9262577019aa5c944b51cc615b4b87b7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - coolingGelSheetPrefab: {fileID: 3490830221613546051, guid: 23cfeb93db9141044ac41c16721d2b65, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
